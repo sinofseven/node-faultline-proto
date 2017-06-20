@@ -1,0 +1,23 @@
+{
+  "name": "node-faultline-proto",
+  "version": "0.1.0",
+  "description": "faultline用nodejsライブラリ(プロト)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinofseven/node-faultline-proto.git"
+  },
+  "keywords": [],
+  "author": "sinofseven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinofseven/node-faultline-proto/issues"
+  },
+  "homepage": "https://github.com/sinofseven/node-faultline-proto#readme",
+  "dependencies": {
+    "airbrake": "^2.0.1"
+  }
+}
