@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sinofseven/node-faultline-proto#readme",
   "dependencies": {
-    "airbrake": "^2.0.1"
+    "airbrake": "^2.0.1",
+    "lodash.merge": "^4.6.0"
   }
 }
