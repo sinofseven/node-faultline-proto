@@ -1,3 +1,6 @@
+[![NPM](https://nodei.co/npm/node-faultline-proto.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-faultline-proto/)
+[![NPM](https://nodei.co/npm-dl/node-faultline-proto.png?height=2)](https://nodei.co/npm/node-faultline-proto/)
+
 # node-faultline-proto 
 
 > [faultline](https://github.com/faultline/faultline) exception and error notifier for JavaScript.
